@@ -46,6 +46,7 @@ I enjoy working with data, creating dashboards, solving business problems, and c
 - Power BI Desktop
 - Tableau Public
 
+## Contact
 📧 Email: varinik15@gmail.com
 💼 LinkedIn: www.linkedin.com/in/varinikateelu
 🌐 GitHub: https://github.com/varinik15 
